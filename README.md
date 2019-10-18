@@ -1,10 +1,14 @@
-# mernAuth-Backend
+# mernAuth
 
+# Backend
 This is an authentication app for user register and login, <br/>
 Following libraries are used: `bcryptjs` `jsonwebtoken` `passport` `mongoose` `passport-jwt` `validate`<br/>
 Features are:- Register, Login<br/>
 Hosted at https://mern-auth-api.herokuapp.com/<br/>
 
+# Frontend
+
+using materializecss
 # Usage
 `$ node server.js`<br/>
 
